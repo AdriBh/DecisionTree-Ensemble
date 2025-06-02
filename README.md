@@ -82,6 +82,8 @@ The models were evaluated based on:
 - **Random Forest** consistently outperforms the **Decision Tree** across all metrics.
 - It achieves higher AUC, accuracy, and F1-score and exhibits better generalization to unseen data.
 - **Decision Tree**, while interpretable and lightweight, showed signs of overfitting despite pruning.
+- **Feature Importance*:*
+- ![Featue Importance](./featureimportance.jpg)
 
 ---
 
